@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Example3.2.5_CustomDialog</string>
+
+    <string name="app_name_chinese">自定义对话框示例</string>
+    <string name="app_action">弹出自定义对话框</string>
+
+    <string name="custom_dialog_title">提示标题</string>
+    <string name="custom_dialog_message">提示信息内容</string>
+    <string name="custom_dialog_negative">取消</string>
+    <string name="custom_dialog_positive">确定</string>
+</resources>

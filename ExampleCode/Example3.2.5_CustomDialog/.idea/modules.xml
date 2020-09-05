@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Example3.2.5_CustomDialog.iml" filepath="$PROJECT_DIR$/.idea/modules/Example3.2.5_CustomDialog.iml" group="Example3.2.5_CustomDialog" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Example3.2.5_CustomDialog/app" />
+    </modules>
+  </component>
+</project>
